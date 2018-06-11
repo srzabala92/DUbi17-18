@@ -1,0 +1,20 @@
+#######################
+#Tipo de Datos "ProyectoDU"
+#######################
+
+ProyectoDU	KEYWORD1
+
+##############################
+#Funciones de la clase "ProyectoDU"
+##############################
+inicializarLCD	KEYWORD2
+leerValores	KEYWORD2
+controlParpadeos	KEYWORD2
+mostrarHTLCD	KEYWORD2
+crearBD	KEYWORD2
+insertarEnBD	KEYWORD2
+escucharClientesAPI	KEYWORD2
+configuracionInicial	KEYWORD2
+actualizacionSincronizacion	KEYWORD2
+enviarEmail	KEYWORD2
+envioABroker	KEYWORD2

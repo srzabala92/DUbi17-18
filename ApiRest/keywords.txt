@@ -1,0 +1,20 @@
+#######################
+#Tipo de Datos "ApiRest"
+#######################
+
+ApiRest	KEYWORD1
+
+##############################
+#Funciones de la clase "ApiRest"
+##############################
+
+atenderClientes	KEYWORD2
+actualizarTemp	KEYWORD2
+actualizarHum	KEYWORD2
+actualizarVersion	KEYWORD2
+configurar	KEYWORD2
+umbralTempMax	KEYWORD2
+umbralTempMin	KEYWORD2
+umbralHumMax	KEYWORD2
+umbralHumMin	KEYWORD2
+
